@@ -63,17 +63,17 @@ I’m a results-driven developer with a strong foundation in systems programming
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_title=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProdevappOFFICIAL&show_icons=true&theme=default&hide_title=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ProdevappOFFICIAL&theme=default&hide_border=true" height="160" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📬 Email: [you@example.com](mailto:you@example.com)
+- 🌐 Website: [MyPortfolio](https://prodevappofficial.vercel.app)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oyewale-prudence-26a289319/)
+- 📬 Email: [prutotech@gmail.com](mailto:prutotech@gmail.com)
 
 ---
 

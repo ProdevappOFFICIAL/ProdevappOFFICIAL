@@ -1,6 +1,6 @@
 # 🏄‍♂️ ProdevappOFFICIAL
 
-**Full-Stack Web Developer** specializing in building modern, scalable, and performant web applications using **Electron** **Rust**, **Next.js**, **TypeScript**, and **React.js**.
+**Full-Stack Web Developer Expert** specializing in building modern, scalable, and performant web applications using **Electron** **Rust**, **Next.js**, **TypeScript**, and **React.js**.
 
 
 
@@ -9,7 +9,7 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" height="100px" style="padding-right:10px;" src="https://img.shields.io/badge/-Electron-informational?style=flat-square&logo=electron&logoColor=white&color=47848F" />
+<img align="left" alt="Spring" width="30px" height="10px" style="padding-right:10px;" src="https://img.shields.io/badge/-Electron-informational?style=flat-square&logo=electron&logoColor=white&color=47848F" />
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />

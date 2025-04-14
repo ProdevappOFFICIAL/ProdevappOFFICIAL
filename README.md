@@ -1,4 +1,4 @@
-# 🏄‍♂️ ProdevappOFFICIAL
+# 🏄‍♂️ PrutoTechnologies
 
 **Full-Stack Web Developer Expert** specializing in building modern, scalable, and performant web applications using **Electron** **Rust**, **Next.js**, **TypeScript**, and **React.js**.
 

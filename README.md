@@ -25,8 +25,7 @@
 <br />
 
 #
-## 💼 Professional Summary
-
+## 💼 Summary
 I’m a results-driven developer with a strong foundation in systems programming and frontend engineering. I build production-ready applications that balance performance, usability, and maintainability. My development philosophy centers around writing clean, type-safe, and testable code.
 
 - 🔹 **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS

@@ -52,7 +52,7 @@ I’m a results-driven developer with a strong foundation in systems programming
 |------------|--------------------------------------------------------------------------------------|
 | Languages  | Rust, TypeScript, JavaScript, HTML, CSS                                             |
 | Frontend   | React, Next.js, Tailwind CSS, Framer Motion                                         |
-| Backend    | Rust (Axum, Actix), Node.js, tRPC, Express                                          |
+| Backend    | Rust (Axum, Actix), Node.js, tRPC, Express, NestJS                                          |
 | DevOps     | Docker, GitHub Actions, Railway, NGINX                                              |
 | Tooling    | Vite, Webpack, Turborepo, ESLint, Prettier                                          |
 | Testing    | Vitest, Jest, Playwright, Rust test framework                                       |

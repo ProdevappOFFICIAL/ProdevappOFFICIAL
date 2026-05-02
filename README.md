@@ -1,66 +1,26 @@
-# 👋 Hey, I’m Prudence
+[<img src="https://user-images.githubusercontent.com/7581348/177038557-8f9471ee-b17c-48be-b1c9-7a4ca0bd4858.gif" height="300px">](https://x.com/oyewaleprudence)
 
-> *Full-Stack & Blockchain Engineer building high-performance tools and systems*
+> You can follow my maker journey on [X/Twitter 🐦](https://twitter.com/yourhandle)
 
-You can follow my maker journey on **X/Twitter** 🐦
+I'm Prudence, a **Full-Stack & Blockchain Engineer** who has shipped **12+ products** focused on high-performance DX and clean, neo-brutalist interfaces.
 
----
+My work spans browser-native IDEs for the Stacks blockchain, Solana simulation platforms, and hybrid Cloud-to-Edge e-learning ecosystems.
 
-## 🚀 About Me
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="32px">](https://x.com/oyewaleprudence) 
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="32px">](https://x.com/oyewaleprudence)
 
-I’m a **Full-Stack & Blockchain Engineer** focused on building the infrastructure I wish existed.
+##### PRODUCTS
 
-* ⚡ Shipped **Products**
-* 🧠 Obsessed with **high-performance DX**
-* 🎨 Love **clean, neo-brutalist interfaces**
+* 🛠️ [LabSTX](https://labstx.online), a browser-native IDE for Stacks blockchain development. It provides a seamless experience to build, test, and deploy smart contracts directly from your browser.
 
-My work spans:
+* 📚 [LearningDeck](https://learningdeck.online), a hybrid e-learning and examination ecosystem designed to eliminate the risks of internet dependency during high-stakes testing. Built with a Cloud-to-Edge architecture, it allows administrators to manage curriculum and exam data online while executing assessments via a specialized Desktop Local Server, hosting exams over a LAN with zero latency before syncing results back to the cloud.
 
-* 🌐 Browser-native IDEs for the **Stacks blockchain**
-* 🔗 Solana simulation platforms
-* ☁️ Hybrid **Cloud-to-Edge** e-learning ecosystems
+* 🌍 [Beam Africa](https://beam-africa-theta.vercel.app/), a Nigeria-first incubator and community program designed to train, mentor, and support the next generation of African tech entrepreneurs through resources, mentorship, and funding opportunities.
 
----
+* 🧪 [SIMUSOL](https://github.com/SIMULSOL/SIMULSOL-ELECTRON), an open-source Solana smart contract testing and simulation platform designed to accelerate development cycles and reduce deployment risks.
 
-## 🛠️ Products
+* 📂 [PCShare](https://github.com/Prudencex/PCShare), a peer-to-peer file sharing desktop app that allows users to securely transfer files directly between devices using end-to-end encryption.
 
-### 🧩 LabSTX
+#
 
-A **browser-native IDE** for Stacks blockchain development.
-Build, test, and deploy **Clarity smart contracts** directly from your browser.
-
----
-
-### 📚 LearningDeck
-
-A **hybrid e-learning ecosystem** using Cloud-to-Edge architecture to eliminate internet dependency during high-stakes testing.
-
----
-
-### 🌍 Beam Africa
-
-A **Nigeria-first incubator & community** program focused on training and mentoring the next generation of African tech entrepreneurs.
-
----
-
-### 🧪 SIMUSOL
-
-An **open-source Solana smart contract testing & simulation platform** designed to reduce deployment risks.
-
----
-
-### 📂 PCShare
-
-A **peer-to-peer desktop file sharing app** enabling secure, direct transfers using end-to-end encryption.
-
----
-
-### 🎮 Survival Game
-
-A **high-score survival mini-game** built to test web performance and user engagement.
-
----
-
-## 🤝 Let’s Connect
-
-If you’d like to collaborate or discuss opportunities, feel free to reach out.
+If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:prutotech@gmail.com.com).

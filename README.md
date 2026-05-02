@@ -1,4 +1,4 @@
-[<img src="https://user-images.githubusercontent.com/7581348/177038557-8f9471ee-b17c-48be-b1c9-7a4ca0bd4858.gif" height="300px">](https://x.com/oyewaleprudence)
+(https://x.com/oyewaleprudence)
 
 > You can follow my maker journey on [X/Twitter 🐦](https://twitter.com/yourhandle)
 

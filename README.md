@@ -13,7 +13,7 @@ My work spans browser-native IDEs for the Stacks blockchain, Solana simulation p
 
 * 📚 [LearningDeck](https://learningdeck.online), a hybrid e-learning and examination ecosystem designed to eliminate the risks of internet dependency during high-stakes testing. Built with a Cloud-to-Edge architecture, it allows administrators to manage curriculum and exam data online while executing assessments via a specialized Desktop Local Server, hosting exams over a LAN with zero latency before syncing results back to the cloud.
 
-* 🌍 [Beam Africa](https://beam-africa-theta.vercel.app/), a Nigeria-first incubator and community program designed to train, mentor, and support the next generation of African tech entrepreneurs through resources, mentorship, and funding opportunities.
+* 🌍 [Beam Africa](https://beam-africa-theta.vercel.app/), a Nigeria-first incubator and community program designed to train, mentor, and support the next generation of African tech entrepreneurs through resources, mentorship, and funding opportunities on Beam.
 
 * 🧪 [SIMUSOL](https://github.com/SIMULSOL/SIMULSOL-ELECTRON), an open-source Solana smart contract testing and simulation platform designed to accelerate development cycles and reduce deployment risks.
 

@@ -4,6 +4,10 @@ I'm Prudence, a **Full-Stack & Blockchain Engineer** who has shipped **12+ produ
 
 My work spans browser-native IDEs for the Stacks blockchain, Solana simulation platforms, and hybrid Cloud-to-Edge e-learning ecosystems.
 
+<img src="https://github.com/LabSTX/LabSTX_IDE/raw/main/public/labstx-intro.gif" alt="Watch the demo video" width="100%" />
+
+
+
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="32px">](https://x.com/oyewaleprudence) 
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="32px">](https://x.com/oyewaleprudence)
 

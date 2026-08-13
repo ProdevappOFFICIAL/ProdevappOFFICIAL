@@ -1,4 +1,4 @@
-> You can follow my maker journey on [X/Twitter 🐦](https://twitter.com/yourhandle)
+> You can follow my maker journey on [X/Twitter 🐦](https://x.com/oyewaleprudence)
 
 I'm Prudence, a **Full-Stack & Blockchain Engineer** who has shipped **12+ products** focused on high-performance DX and clean, neo-brutalist interfaces.
 
